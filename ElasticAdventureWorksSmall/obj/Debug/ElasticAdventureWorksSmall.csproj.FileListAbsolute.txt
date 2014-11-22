@@ -1,0 +1,17 @@
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\ElasticAdventureWorksSmall.exe.config
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\InitializeShard.sql
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\ElasticAdventureWorksSmall.exe
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\ElasticAdventureWorksSmall.pdb
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.dll
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.xml
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.xml
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\obj\Debug\ElasticAdventureWorksSmall.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\obj\Debug\ElasticAdventureWorksSmall.exe
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\obj\Debug\ElasticAdventureWorksSmall.pdb
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2013\Projects\SqlSat355\ElasticScaleStarterKit\bin\Debug\EntityFramework.SqlServer.xml
